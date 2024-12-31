@@ -1,2 +1,2 @@
 # xING_carpento
-bootstrap projeect (html and css).
+bootstrap project (html and css).
